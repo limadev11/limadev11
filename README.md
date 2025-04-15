@@ -2,13 +2,27 @@
 
 ![Wallpaper GIF](/wallpaper.gif)
 
-<h3>💻 Tech Stack:</h3>
-     <br/>
-  <div align="center">
+# Olá, eu sou o João Victor Lima :)
 
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  </div>
-  <div align="center"> 
-  </div>
+**Front-end Developer & Content Creator**  
+Unindo design e código, sigo criando projetos únicos.
+
+---
+
+## Habilidades
+
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) HTML5
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) CSS3
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) JavaScript
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) MySQL
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) PHP
+
+---
+
+## Sobre o Repositório
+Este repositório é uma amostra dos meus projetos de desenvolvimento. Aqui, você pode ver alguns dos trabalhos mais recentes, construídos com as tecnologias que domino.
+
+### Cores e Estilo
+O repositório é estilizado com uma paleta de **preto** e **roxo** para refletir minha identidade visual.
+
+
