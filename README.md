@@ -1,4 +1,4 @@
-![Wallpaper GIF](assets/wallpaper)
+![Wallpaper GIF](assets/wallpaper.gif)
 
 ##
 
