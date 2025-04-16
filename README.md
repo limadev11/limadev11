@@ -1,3 +1,6 @@
+![Wallpaper GIF](assets/wallpaper.gif)
+
+##
 
 
 
