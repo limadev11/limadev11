@@ -71,7 +71,7 @@ Aplicativo de tarefas com frontend em Flet (Python) e backend em PHP com MySQL.
 
 ---
 
-### 🔗 [Painel de Gestão Homeopático] (https://github.com/limadev11/limadev11/edit/main/README.md)
+### 🔗 [Painel de Gestão Homeopático] (https://github.com/limadev11/limadev11/edit/main/README.md)]
 Sistema de gerenciamento para produtos homeopaticos com frontend em HTML/CSS/JS e integração com WhatsApp e pagamentos.  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
