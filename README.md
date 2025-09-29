@@ -56,9 +56,6 @@ Bastidores criativos, lifestyle tech e novidades
 
 ---
 
-## 📌 Projetos em destaque
-
----
 
 ## 📌 Projetos em destaque
 
