@@ -88,7 +88,7 @@ Sistema de gerenciamento para barbearia com navegação por abas e sistema de ag
 
 ---
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?logo=bootstrap&logoColor=white)
-'''
+```html
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 ---
 
